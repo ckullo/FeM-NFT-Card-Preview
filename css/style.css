@@ -25,6 +25,11 @@ body .container {
   background-color: var(--color-card-bg);
 }
 
+@media only screen and (min-width: 1024px) {
+  body .container {
+    margin-top: 10%;
+  }
+}
 body .container img {
   width: 280px;
   border-radius: 10px;
