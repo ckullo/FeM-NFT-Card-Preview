@@ -82,16 +82,18 @@ body .container {
 h1 {
   color: var(--color-white);
   font-weight: 600;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 p {
   font-weight: 400;
+  font-size: 16px;
 }
 
 .container-description {
   width: 280px;
   margin-top: 10px;
+  padding-top: 10px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -112,6 +114,7 @@ p {
 .value {
   color: var(--primary-cyan);
   font-weight: 600;
+  font-size: 16px;
 }
 
 .period {
